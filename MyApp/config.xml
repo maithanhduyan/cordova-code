@@ -8,4 +8,10 @@
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
+
+    <platform name="android">
+        <!-- Tùy chọn khác cho nền tảng Android -->
+        <preference name="android-minSdkVersion" value="32" />
+    </platform>
+
 </widget>
