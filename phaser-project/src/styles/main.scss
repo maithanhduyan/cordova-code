@@ -1,0 +1,15 @@
+$primary-color:#2fa8cc;
+body{
+    background-color: $primary-color;
+    margin: 0px;
+    padding: 0px;
+}
+
+canvas {
+    display: block;
+    margin: 0;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

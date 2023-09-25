@@ -24,3 +24,6 @@ For Android
 > cordova platform add android
 > cordova plugin add cordova-plugin-battery-status
 > cordova emulate android | cordova build android
+
+## Setup environment
+[Android](https://cordova.apache.org/docs/en/12.x/guide/platforms/android/index.html)
